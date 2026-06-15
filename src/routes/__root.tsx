@@ -77,8 +77,8 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "מכבשי קרטון פתרונות — השכרה, מכירה, תיקון וקנייה" },
-      { name: "description", content: "פתרונות מקצועיים למכבשי קרטון: השכרה, מכירה, תיקון וקניית מכבשים משומשים לעסקים, מחסנים ומפעלים בכל הארץ." },
+      { title: "מכבשי קרטון פתרונות | השכרה, מכירה ותיקון מכבשי קרטון" },
+      { name: "description", content: "מכבשי קרטון פתרונות מספקת השכרה, מכירה, תיקון וקניית מכבשי קרטון משומשים לעסקים, מחסנים ומפעלים בכל הארץ. שירות מקצועי, מהיר ואמין." },
       { property: "og:title", content: "מכבשי קרטון פתרונות" },
       { property: "og:description", content: "השכרה, מכירה, תיקון וקניית מכבשי קרטון משומשים — שירות מהיר ואמין בכל הארץ." },
       { property: "og:type", content: "website" },
